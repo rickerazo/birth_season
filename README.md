@@ -1,8 +1,18 @@
-# Ricardo Erazo, PhD 	2024
-## Seattle Children's Research Institute
-## Center for Integrative Brain Research
+# Ricardo Erazo, PhD
+Seattle Children's Research Institute
+Center for Integrative Brain Research
+2024
 
 # CovidBirth_data_pipeline
+
+## general libraries needed:
+- numpy
+- matplotlib
+- pandas
+- os
+- datetime
+- time
+- scipy
 
 ## preprocess_birth_data.py
 
