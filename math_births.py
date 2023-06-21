@@ -37,13 +37,8 @@ from scipy.signal import find_peaks
 from scipy.signal import savgol_filter
 from scipy.stats import linregress
 
-import plotly.graph_objects as go
-import plotly.express as px
-
-# from causalimpact import CausalImpact
 from datetime import datetime, timedelta
 
-# from datetime import datetime
 import time
 
 os.makedirs('model_output/',exist_ok=True)

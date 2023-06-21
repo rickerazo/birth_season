@@ -33,13 +33,8 @@ import matplotlib.pyplot as plt
 import pandas as pd 
 import os
 
-import plotly.graph_objects as go
-import plotly.express as px
-
-# from causalimpact import CausalImpact
 from datetime import datetime, timedelta
 
-# from datetime import datetime
 import time
 
 os.makedirs('output_figures/',exist_ok=True)

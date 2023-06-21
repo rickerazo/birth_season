@@ -41,8 +41,6 @@ import matplotlib.pyplot as plt
 import pandas as pd 
 import os
 
-from causalimpact import CausalImpact
-
 # from datetime import datetime
 import time
 
